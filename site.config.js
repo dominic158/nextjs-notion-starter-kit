@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: '博客名称',
   domain: 'https://www.notion.so/Web-Clipper-c218ae7332d64c15847c8faece013266',
-  author: '博客作者',
+  author: 'wsqty',
 
   // open graph metadata (optional)
   description: 'Example site description',
