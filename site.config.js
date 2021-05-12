@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'c218ae7332d64c15847c8faece013266',
+  rootNotionPageId: 'c5a8df571f7549f190653c4741a86db0',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Dominic Blog',
-  domain: 'https://www.notion.so/Web-Clipper-c218ae7332d64c15847c8faece013266',
+  domain: 'https://www.notion.so/Dominic-c5a8df571f7549f190653c4741a86db0',
   author: 'Dominic',
 
   // open graph metadata (optional)
