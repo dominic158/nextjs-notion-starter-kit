@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '博客名称',
+  name: 'Dominic Blog',
   domain: 'https://www.notion.so/Web-Clipper-c218ae7332d64c15847c8faece013266',
-  author: 'wsqty',
+  author: 'Dominic',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'dominic158',
+  github: 'dominic158',
+  linkedin: 'dominic158',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
